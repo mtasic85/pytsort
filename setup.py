@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='pytsort',
-    version='0.1.1',
-    description='',
+    version='0.1.2',
+    description='Topological Sorting in Python',
     long_description='Topological Sorting in Python',
     author='Marko Tasic',
     author_email='mtasic85@gmail.com',
