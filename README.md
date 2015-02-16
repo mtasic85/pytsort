@@ -1,8 +1,13 @@
 # pytsort
 Topological Sorting in Python. Works on both Python >=2.6 and >=3.2.
 
-# Example
+# Installation
+```bash
+pip install pytsort
 ```
+
+# Example
+```python
 from tsort import tsort
 from pprint import pprint
 
